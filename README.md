@@ -25,5 +25,5 @@ curl -o pre-commit https://raw.githubusercontent.com/viktor-mazepa/git-hooks/mai
 ```
 Try to commit token/secret. Enjoy!
 
-## Example of validation messgae
+## Example of validation message
 ![image](https://github.com/viktor-mazepa/git-hooks/assets/11060836/ea22f09e-b14b-476f-b8e6-f12754835e2d)
