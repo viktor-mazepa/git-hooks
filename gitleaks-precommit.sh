@@ -3,7 +3,7 @@
 CURRENT_DIR=$(pwd)
 
 # Move to scripts folder
-cd scripts
+cd .git-scripts
 
 # Run validation script
 go run pre-commit.go
